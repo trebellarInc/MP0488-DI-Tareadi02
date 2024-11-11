@@ -9,6 +9,15 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
+ *
+ * @author Ignacio Limetre Rosales
+ *
+ * CSIFC02 Desenvolvemento de aplicacións multiplataforma MP0488 Desenvolvemento
+ * de interfaces
+ */
+
+
+/**
  * JavaFX App
  */
 public class App extends Application {
