@@ -10,10 +10,8 @@ public class vPrincipalController {
     @FXML
     private Button btnReservas;
 
-  
-
     @FXML
     private void clickReservas(ActionEvent event) throws IOException {
-         App.setRoot("vReservas");
+        App.setRoot("vReservas");
     }
 }
